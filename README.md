@@ -3,5 +3,5 @@
 
 
 ### 코딩의 바다로 항해
-<img src="https://github.com/42azimut/md_doc_Study/blob/main/img/cb5d372db8d5008660d73b445b2a7485.jpg" width="500px" height="300px" align="center">
+<img src="https://github.com/42azimut/md_doc_Study/blob/main/img/cb5d372db8d5008660d73b445b2a7485.jpg" width="500px" height="280px" align="center">
 
