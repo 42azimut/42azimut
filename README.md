@@ -6,5 +6,5 @@
 
 ### Can't take my eyes off ~~you~~ the Code & Error!
 
-<img src="https://github.com/42azimut/md_doc_Study/blob/main/img/boostJS.png" width:"600px" height:"330px" align="center">
+<img src="https://github.com/42azimut/md_doc_Study/blob/main/img/boostJS.png" width="600px" height="330px" align="center">
 
