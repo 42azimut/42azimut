@@ -8,4 +8,4 @@
 
 <img src="https://github.com/42azimut/md_doc_Study/blob/main/img/boostJS.png" width="400px" height="260px" align="center">
 
-<img src="https://github.com/42azimut/md_doc_Study/blob/main/img/boostCS50.png" width=400px" height="260px" align="center">
+<img src="https://github.com/42azimut/md_doc_Study/blob/main/img/boostCS50.png" width="400px" height="260px" align="center">
